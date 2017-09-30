@@ -22,7 +22,7 @@
 		<jdk.version>1.8</jdk.version>
 		<!-- Maven -->
 		<maven.compiler.version>3.5</maven.compiler.version>
-		<!-- Maven. Test de Integración -->
+		<!-- Maven. Test de Integraciï¿½n -->
 		<maven.failsafe.version>2.19.1</maven.failsafe.version>
 		<!-- Pruebas -->
 		<junit.version>4.11</junit.version>
@@ -159,9 +159,9 @@
 
 	<developers>
 		<developer>
-			<name>Name</name>
-			<id>Id</id>
-			<email>mail@gmail.com</email>
+			<name>SantiagoPerez</name>
+			<id>sprez</id>
+			<email>isragoo.prez@gmail.com</email>
 			<organization>MIW UPM</organization>
 			<roles>
 				<role>Architect</role>
